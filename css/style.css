@@ -1779,7 +1779,7 @@ display: block
 }
 
 .clients_red {
-     background: #4c00ff;
+     background: linear-gradient(277deg, rgb(0, 39, 255) -18.34%, rgb(251 0 0) 108.85%);
      padding-top: 90px;
      padding-bottom:110px;
 } 
